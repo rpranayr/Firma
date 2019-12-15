@@ -1,0 +1,12 @@
+D:\DBS Lab\Project\Email\Email\bin\Debug\Email.exe.config
+D:\DBS Lab\Project\Email\Email\bin\Debug\Email.exe
+D:\DBS Lab\Project\Email\Email\bin\Debug\Email.pdb
+D:\DBS Lab\Project\Email\Email\obj\Debug\Email.csprojAssemblyReference.cache
+D:\DBS Lab\Project\Email\Email\obj\Debug\Email.Form1.resources
+D:\DBS Lab\Project\Email\Email\obj\Debug\Email.Properties.Resources.resources
+D:\DBS Lab\Project\Email\Email\obj\Debug\Email.csproj.GenerateResource.cache
+D:\DBS Lab\Project\Email\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+D:\DBS Lab\Project\Email\Email\obj\Debug\Email.exe
+D:\DBS Lab\Project\Email\Email\obj\Debug\Email.pdb
+D:\DBS Lab\Project\Email\Email\bin\Debug\EASendMail.dll
+D:\DBS Lab\Project\Email\Email\obj\Debug\Email.csproj.CopyComplete
